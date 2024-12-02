@@ -31,9 +31,9 @@ Both networks improve through **adversarial training**.
 
 ## How to Use:
 
-Replace 'path/to/your/image/directory' with the path to your image dataset
-Ensure images are in .png, .jpg, or .jpeg format
-Images will be automatically resized to 64x64 pixels
+Replace 'path/to/your/image/directory' with the path to your image dataset.
+Ensure images are in .png, .jpg, or .jpeg format.
+Images will be automatically resized to 64x64 pixels.
 
 ## Notes:
 
