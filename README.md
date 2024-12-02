@@ -37,6 +37,6 @@ Images will be automatically resized to 64x64 pixels.
 
 ## Notes:
 
-This is a basic implementation. Advanced GANs like DCGAN or StyleGAN have more complex architectures
-Training requires a GPU for reasonable performance
-The quality of generated images depends on your training dataset
+This is a basic implementation. Advanced GANs like **DCGAN** or **StyleGAN** have more complex architectures.
+Training requires a GPU for reasonable performance.
+The quality of generated images depends on your training dataset.
