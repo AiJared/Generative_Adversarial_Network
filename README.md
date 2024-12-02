@@ -16,8 +16,8 @@ The discriminator attempts to distinguish between **real** and **generated** ima
 
 ### Training Process:
 
-The **generator** tries to create *realistic images*
-The **discriminator** tries to correctly identify *real vs. generated images*
+The **generator** tries to create *realistic images*.
+The **discriminator** tries to correctly identify *real vs. generated images*.
 Both networks improve through **adversarial training**.
 
 
