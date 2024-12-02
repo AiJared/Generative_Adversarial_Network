@@ -7,12 +7,11 @@ The generator takes random noise and generates images
 The discriminator attempts to distinguish between real and generated images
 
 
-Key Components:
-
-build_generator(): Creates a neural network that generates images from noise
-build_discriminator(): Creates a neural network that classifies images as real or fake
-train_step(): Implements the core GAN training logic with gradient computation
-preprocess_images(): Helps load and preprocess your custom dataset
+### Key Components:
+ - **build_generator()**: Creates a neural network that generates images from noise
+ - **build_discriminator()**: Creates a neural network that classifies images as real or fake
+ - **train_step()**: Implements the core GAN training logic with gradient computation
+ - **preprocess_images()**: Helps load and preprocess your custom dataset
 
 
 ### Training Process:
