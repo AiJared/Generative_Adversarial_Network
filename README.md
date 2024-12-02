@@ -15,11 +15,11 @@ train_step(): Implements the core GAN training logic with gradient computation
 preprocess_images(): Helps load and preprocess your custom dataset
 
 
-Training Process:
+### Training Process:
 
-The generator tries to create realistic images
-The discriminator tries to correctly identify real vs. generated images
-Both networks improve through adversarial training
+The **generator** tries to create *realistic images*
+The **discriminator** tries to correctly identify *real vs. generated images*
+Both networks improve through **adversarial training**.
 
 
 
