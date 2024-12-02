@@ -1,10 +1,10 @@
 ## Image Generation with Generative Adversarial Network
 
-Architecture:
+### Architecture:
 
-We've created a custom GAN with a generator and discriminator network
-The generator takes random noise and generates images
-The discriminator attempts to distinguish between real and generated images
+We've created a **custom GAN** with a **generator** and **discriminator network**.
+The generator takes *random noise* and generates images.
+The discriminator attempts to distinguish between **real** and **generated** images.
 
 
 ### Key Components:
